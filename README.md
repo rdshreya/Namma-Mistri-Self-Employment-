@@ -30,4 +30,6 @@ Namma-Mistri is an Android application developed using Kotlin and Jetpack Compos
 - Add PDF report generation
 
 ## Screenshots
-(Add your screenshots here)
+![Home Screen](screenshots/Namm Mistri.jpeg)
+
+![Output Screen](screenshots/Namm Mistri output.jpeg)
